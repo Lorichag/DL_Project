@@ -170,6 +170,14 @@ Ces résultats montrent surtout que le principal problème du modèle est le **s
 
 ---
 
+---
+
+## 5. Ajout de Yolo
+
+Utilisation d'un modèle pré entrainée de Yolo pour la détection de visage sur une image contenant plusieurs personne puis utilisation de notre modèle pour prédire les différentes émotions. 
+
+---
+
 ## Conclusion
 
 Ce projet a permis de mettre en place un pipeline complet de reconnaissance d'émotions :
